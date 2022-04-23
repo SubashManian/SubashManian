@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SubashManian
-- 👀 I’m interested in ... Flutter and Web app Development
+- 👀 Experienced in ... Flutter, React Native, Android and Web app Development
 - 🌱 I’m currently learning ... Python
 - 📫 Reach me in maniansubash@gmail.com 
 - LinkedIn => SubashManian
