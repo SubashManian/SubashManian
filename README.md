@@ -6,11 +6,10 @@
 FrontEnd Developer
 ------------------
 
-Enthusiastic mobile app developer with 4 years of experience. I have deep understanding and have working experience in Flutter, React Native, React and Object Oriented JavaScript programming.
+Enthusiastic mobile app developer with 5 years of experience. I have deep understanding and have working experience in Flutter, React Native, React and Object Oriented JavaScript programming.
 
 * 🌍  Located on India
-* 🧠 I'm learning Web3
-* 🤝 I'm open to collaborating on Web3 and Python
+* 🧠 I'm learning GenAi
 * ✉️  You can contact me at [maniansubash@gmail.com](mailto:maniansubash@gmail.com)
 
 ### Skills
