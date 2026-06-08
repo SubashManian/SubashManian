@@ -46,6 +46,6 @@ I specialize in cross-platform development, mobile architecture, offline-first a
 
 ### Blogs
 
-<p align="left"> <a href="https://fluttervsreactnative-performance.blogspot.com/2021/02/both-flutter-and-react-native-are.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
-<p align="left"> <a href="https://medium.com/@maniansubash/the-evolution-of-react-native-the-expo-vs-cli-debate-which-one-is-right-for-you-be89ac5c77ab" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fill:96:96/1*8E6Laeaz-zMfU_rkpZUyKw.png" width="32" height="32" /></a></p>
-<p align="left"> <a href="https://medium.com/@maniansubash/i-got-fired-because-of-ai-325bfe0000a9" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fill:96:96/1*8E6Laeaz-zMfU_rkpZUyKw.png" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://fluttervsreactnative-performance.blogspot.com/2021/02/both-flutter-and-react-native-are.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a>
+<a href="https://medium.com/@maniansubash/the-evolution-of-react-native-the-expo-vs-cli-debate-which-one-is-right-for-you-be89ac5c77ab" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fill:96:96/1*8E6Laeaz-zMfU_rkpZUyKw.png" width="32" height="32" /></a>
+<a href="https://medium.com/@maniansubash/i-got-fired-because-of-ai-325bfe0000a9" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fill:96:96/1*8E6Laeaz-zMfU_rkpZUyKw.png" width="32" height="32" /></a></p>
