@@ -3,13 +3,16 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-FrontEnd Developer
+Senior Developer
 ------------------
 
-Enthusiastic mobile app developer with 5 years of experience. I have deep understanding and have working experience in Flutter, React Native, React and Object Oriented JavaScript programming.
+Senior Mobile Application Developer with 8+ years of experience building scalable, high-performance mobile applications using React Native, Flutter, Android, and iOS technologies.
+
+I specialize in cross-platform development, mobile architecture, offline-first applications, CI/CD automation, and enterprise-grade solutions. Passionate about creating intuitive user experiences and delivering reliable applications that serve millions of users.
+
+🚀 Currently working on large-scale government and enterprise mobile applications while continuously exploring new technologies and modern development practices.
 
 * 🌍  Located on India
-* 🧠 I'm learning GenAi
 * ✉️  You can contact me at [maniansubash@gmail.com](mailto:maniansubash@gmail.com)
 
 ### Skills
@@ -44,13 +47,5 @@ Enthusiastic mobile app developer with 5 years of experience. I have deep unders
 ### Blogs
 
 <p align="left"> <a href="https://fluttervsreactnative-performance.blogspot.com/2021/02/both-flutter-and-react-native-are.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/SubashManian"><img src="https://github-readme-stats.vercel.app/api?username=SubashManian&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SubashManian's GitHub stats" /></a>
-
-<a href="http://www.github.com/SubashManian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SubashManian&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/SubashManian" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashManian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> <a href="https://medium.com/@maniansubash/the-evolution-of-react-native-the-expo-vs-cli-debate-which-one-is-right-for-you-be89ac5c77ab" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fill:96:96/1*8E6Laeaz-zMfU_rkpZUyKw.png" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://medium.com/@maniansubash/i-got-fired-because-of-ai-325bfe0000a9" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fill:96:96/1*8E6Laeaz-zMfU_rkpZUyKw.png" width="32" height="32" /></a></p>
